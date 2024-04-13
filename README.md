@@ -4,4 +4,6 @@
 4) Months by number
 5) Comments on the basis of marks
 6) Prime numbers
+7) factorial 
+
    
