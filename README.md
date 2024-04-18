@@ -6,5 +6,5 @@
 6) Prime numbers
 7) factorial
 8) For loop
-9)
+9) While
    
