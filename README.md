@@ -7,5 +7,5 @@
 7) factorial
 8) For loop
 9) While loop
-10) Do
+10) Do while 
    
