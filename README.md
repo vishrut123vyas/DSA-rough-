@@ -9,5 +9,6 @@
 9) For loop
 10) While loop
 11) Do while loop
-12) patterns
+12) Patterns
+13) 
    
