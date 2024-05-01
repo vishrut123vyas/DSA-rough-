@@ -10,5 +10,5 @@
 10) While loop
 11) Do while loop
 12) Patterns
-13) Number 
+13) Number patterns
    
