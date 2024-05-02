@@ -11,5 +11,5 @@
 11) Do while loop
 12) Patterns
 13) Number patterns
-14) sc 
+14) sc scanner
    
