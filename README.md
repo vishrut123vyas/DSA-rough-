@@ -12,7 +12,7 @@
 12) Patterns
 13) Number patterns
 14) Sc scanner
-15) Functions
+15) Functions 
 
     
    
