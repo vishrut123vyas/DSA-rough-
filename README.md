@@ -13,7 +13,7 @@
 13) Number patterns
 14) Sc scanner
 15) Functions product
-16) sum of odd numbers
+16) Sum of odd numbers
 
     
    
