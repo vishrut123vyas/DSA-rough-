@@ -1,6 +1,6 @@
 1) The first hello world
 2) String
-3) tables  
+3) Tables  
 4) Area of circle
 5) Months by number
 6) Comments on the basis of marks
