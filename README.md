@@ -5,7 +5,7 @@
 5) Months by number
 6) Comments on the basis of marks
 7) Prime numbers
-8) factorial
+8) Factorial
 9) For loop
 10) While loop
 11) Do while loop
